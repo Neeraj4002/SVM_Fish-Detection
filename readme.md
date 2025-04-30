@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 Run the Streamlit app
 ```
-streamlit run streamlit_app.py
+streamlit run frontend.py
 ```
 📁 Project Structure
 ```
